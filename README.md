@@ -29,7 +29,7 @@ NOTE: It is highly recommended to keep the jupyter notebooks , python files and 
 NOTE: This will take some time to execute and will generate a ".csv" file for each playlist and these 
 playlists will be stored in the location specified.
 
-<b>Steps to run the 2nd part of the project.<b>
+<b>Steps to run the 2nd part of the project.</b>
  
 1. We have to load the all the ".csv" files which contains the information of the playlists.
 
