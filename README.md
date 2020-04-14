@@ -2,9 +2,10 @@
 In this project, machine learning models are used for predicting whether a user will like a spotify playlist based on the 
 playlists liked by the user.
 
-![Spotify_Logo](link-to-image)
+![Spotify_Logo](https://github.com/Palash09/Spotify_Playlist_Like_Predictor/blob/master/Spotify_Logo.png)
 
 <b>Steps to run the 1st part of the project.</b>
+
 There are two ways to execute this project, either through 
 1. "Spotify_Playlist_Feature_Extraction_1st_Playlist.ipynb" jupyter notebook or by using "Spotify_data.py" python file.
 
@@ -29,6 +30,7 @@ NOTE: This will take some time to execute and will generate a ".csv" file for ea
 playlists will be stored in the location specified.
 
 <b>Steps to run the 2nd part of the project.<b>
+ 
 1. We have to load the all the ".csv" files which contains the information of the playlists.
 
 2. These playlists songs are then classified under the categories of like and dislike.
